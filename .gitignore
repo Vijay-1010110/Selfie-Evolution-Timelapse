@@ -1,0 +1,4 @@
+aligned/*
+!aligned/.gitkeep
+input_images/*
+!input_images/.gitkeep
